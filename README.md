@@ -1,7 +1,7 @@
-## ROZDIL 1.
+## ROZDIL 1488
 (:\/)
 Mezentsev Anton 
-## Rozdel 2: test rabota gilok
+## Rozdel 2 test rabota gilok
 *   punkt A
 *   punkt B  
 🟦🟦🟦🟦🟦⬛⬛⬛⬛⬛🟦🟦🟦🟦🟦  
