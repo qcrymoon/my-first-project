@@ -1,5 +1,5 @@
-ROZDIL 1.
-(:\/)
+## ROZDIL 1.
+##(:\/)
 Mezentsev Anton 
 ## Rozdel 2: test rabota gilok
 *   punkt A
