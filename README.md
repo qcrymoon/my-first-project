@@ -1,3 +1,4 @@
 # my-first-project
-Розділ 1: Починаємо роботу.(:\/)
+ROZDIL 1.(:\/)
+Mezentsev Anton 
 РќР°РІС‡Р°Р»СЊРЅРёР№ РїСЂРѕС”РєС‚ РґР»СЏ РІРёРІС‡РµРЅРЅСЏ GitHub Desktop
